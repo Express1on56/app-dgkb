@@ -1,0 +1,15 @@
+#search-results {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#search-results td, #search-results th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#search-results th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
